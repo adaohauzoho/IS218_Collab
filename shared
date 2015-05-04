@@ -4,6 +4,7 @@
 
 <h1>Please "fork" me!/h1>
 <p> I'd honetly rather not</p>
+echo "me neither :p";
 
 <?php
 echo "Hello World!";
